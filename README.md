@@ -1,16 +1,22 @@
-## Hi there 👋
+# Martin
 
-<!--
-**martin-iflap/martin-iflap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18-year-old student in Bratislava. I build tools where the interesting part is the
+design: storage models, data pipelines, and the math underneath. Heading for CS, aiming for ML/AI later.
+Former competitive cyclist, which is where some projects started.
 
-Here are some ideas to get you started:
+## Selected projects
+- **[GPX-to-FIT converter](link)** – realistic non-uniform pacing from elevation data;
+  runs fully client-side via Pyodide, no backend.
+- **[DataTracker](https://github.com/martin-iflap/DataTracker)** – git-like versioning
+  for datasets: SHA-256 content-addressable storage with deduplication, SQLite metadata,
+  reproducible Docker transforms.
+  - **[IFLang - Simple Language on top of C](https://github.com/martin-iflap/IFLang)** –
+  uses lexer, parser, compiler and VM architecture with partly arena allocated memory.
+- **[Search](https://github.com/martin-iflap/Search)** – search engine built from first
+  principles: TF-IDF, cosine similarity, basic NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Python (uv, FastAPI, pytest, numpy/matplotlib), C, SQL, Docker, Nginx, GitHub Actions
+
+## Contact
+Open to part-time work (15–20 h/week) in Bratislava or remote
