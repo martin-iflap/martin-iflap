@@ -10,13 +10,15 @@ Former competitive cyclist, which is where some projects started.
 - **[DataTracker](https://github.com/martin-iflap/DataTracker)** – git-like versioning
   for datasets: SHA-256 content-addressable storage with deduplication, SQLite metadata,
   reproducible Docker transforms.
-  - **[IFLang - Simple Language on top of C](https://github.com/martin-iflap/IFLang)** –
+- **[IFLang - Simple Language on top of C](https://github.com/martin-iflap/IFLang)** –
   uses lexer, parser, compiler and VM architecture with partly arena allocated memory.
+- **[YT MP3 Downloader - Firefox browser extension](github.com/martin-iflap/YT-MP3-Downloader)** –
+  A Firefox extension that downloads YouTube videos as MP3 files directly from the YouTube interface or via a context-menu option.
 - **[Search](https://github.com/martin-iflap/Search)** – search engine built from first
   principles: TF-IDF, cosine similarity, basic NLP.
 
 ## Stack
-Python (uv, FastAPI, pytest, numpy/matplotlib), C, SQL, Docker, Nginx, GitHub Actions
+Python (uv, FastAPI, pytest, numpy/matplotlib/pandas/scikit-learn, Scapy, click), C, SQL, Docker, Nginx, GitHub Actions
 
 ## Contact
 Open to part-time work (15–20 h/week) in Bratislava or remote
