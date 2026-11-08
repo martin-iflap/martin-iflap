@@ -12,7 +12,7 @@ Former competitive cyclist, which is where some projects started.
   reproducible Docker transforms.
 - **[IFLang - Simple Language on top of C](https://github.com/martin-iflap/IFLang)** –
   uses lexer, parser, compiler and VM architecture with partly arena allocated memory.
-- **[YT MP3 Downloader - Firefox browser extension](github.com/martin-iflap/YT-MP3-Downloader)** –
+- **[YT MP3 Downloader - Firefox browser extension](https://github.com/martin-iflap/YT-MP3-Downloader)** –
   A Firefox extension that downloads YouTube videos as MP3 files directly from the YouTube interface or via a context-menu option.
 - **[Search](https://github.com/martin-iflap/Search)** – search engine built from first
   principles: TF-IDF, cosine similarity, basic NLP.
